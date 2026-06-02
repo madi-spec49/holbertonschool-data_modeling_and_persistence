@@ -1,1 +1,2 @@
-SELECT * FROM books ORDER BY title, price;
+SELECT * FROM books 
+ORDER BY title, price;
