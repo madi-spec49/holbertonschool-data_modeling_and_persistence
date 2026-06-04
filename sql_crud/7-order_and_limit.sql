@@ -1,0 +1,1 @@
+SELECT title, stock FROM books ORDER BY stock limit 5;
