@@ -1,1 +1,1 @@
-SELECT COUNT (*), MAX(stock) FROM books;
+SELECT MAX(stock) FROM books;

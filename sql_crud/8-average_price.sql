@@ -1,1 +1,1 @@
-SELECT COUNT (*), AVG (price) FROM books;
+SELECT AVG(price) FROM books;
