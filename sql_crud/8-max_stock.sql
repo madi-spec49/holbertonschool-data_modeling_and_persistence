@@ -1,0 +1,1 @@
+SELECT COUNT (*), MAX(stock) FROM books;
